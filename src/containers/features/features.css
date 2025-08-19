@@ -40,6 +40,10 @@
     flex-direction: column;
 }
 
+.gpt3__features-container .gpt3__features-container__feature-title{
+    margin-right: 5rem;
+}
+
 @media screen and (max-width: 990px){
     .gpt3__features {
         flex-direction: column;
